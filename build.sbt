@@ -1,4 +1,4 @@
-name := "SBSLogin"
+name := "HorseCode"
 
 version := "1.0-SNAPSHOT"
 
